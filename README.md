@@ -3,7 +3,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on MyBatic Framework
 - 🌱 I’m currently learning Java and Posgrsql
-- 👯 I’m looking to collaborate on ...
+- 👨‍🎓 I'm B.tech Third Student Studying in Ssgb ,Bhusawal�
 - 🤔 I’m looking for help with Hibernate Web Service
 - 💬 Ask me about . Mapper(Mybatice)
 - 📫 How to reach me:Dhananjay.submit@gmail.com
