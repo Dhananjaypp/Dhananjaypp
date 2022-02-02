@@ -1,7 +1,7 @@
 Hi 👋,I'm Dhananjay Patil
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on MyBatic Framework
+- 🔭 I’m currently working on MyBatis Framework
 - 🌱 I’m currently learning Java and Posgrsql
 - 👨‍🎓 I'm B.tech Third Student Studying in Ssgb ,Bhusawal�
 - 🤔 I’m looking for help with Hibernate Web Service
